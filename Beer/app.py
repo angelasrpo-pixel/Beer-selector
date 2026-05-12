@@ -45,8 +45,11 @@ def preparar_datos():
 
 df = preparar_datos()
 
-# 4. BARRA LATERAL (FILTROS)
-st.sidebar.header("🎯 Define tu Perfil")
+# 4. BARRA (FILTROS)
+
+
+
+st.header("🎯 Define tu Perfil")
 
 with st.sidebar:
     # Creamos listas de opciones únicas para los selectores
