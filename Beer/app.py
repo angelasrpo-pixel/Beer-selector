@@ -15,6 +15,18 @@ por su perfil técnico y ayudarte a encontrar la opción ideal según tus gustos
 # 3. CARGA DE DATOS (Lee el archivo generado por el Notebook)
 @st.cache_data
 def preparar_datos():
+    # Intenta cargar el archivo directamente
+    nombre_archivo = "beer_data_cleaned.csv"
+    
+    # Si falla, intenta buscarlo en la subcarpeta (ruta relativa para Streamlit)
+    if os.path.exists(nombre_archivo):
+        return pd.read_csv(nombre_archivo)
+    elif os.path.exists(f"Beer/{nombre_archivo}"):
+        return pd.read_csv(f"Beer/{nombre_archivo}")
+    else:
+        st.error("⚠️ No se encontró el archivo CSV.")
+        st.stop()@st.cache_data
+def preparar_datos():
     # Nombre del archivo que exportaste desde el .ipynb
     nombre_archivo = "beer_data_cleaned.csv"
     
