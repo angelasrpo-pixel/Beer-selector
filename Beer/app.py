@@ -6,7 +6,7 @@ import os
 st.set_page_config(page_title="Beer Selector Pro", page_icon="🍺", layout="wide")
 
 # 2. TÍTULO Y DESCRIPCIÓN
-st.title("🍺 Seleccionador de Cervezas para Portafolio")
+st.title("🍺 Seleccionador de Cervezas")
 st.markdown("""
 Esta aplicación utiliza **Machine Learning (K-Means Clustering)** para agrupar estilos de cerveza 
 por su perfil técnico y ayudarte a encontrar la opción ideal según tus gustos.
@@ -25,8 +25,7 @@ def preparar_datos():
         return pd.read_csv(f"Beer/{nombre_archivo}")
     else:
         st.error("⚠️ No se encontró el archivo CSV.")
-        st.stop()@st.cache_data
-def preparar_datos():
+        st.stop()
     # Nombre del archivo que exportaste desde el .ipynb
     nombre_archivo = "beer_data_cleaned.csv"
     
