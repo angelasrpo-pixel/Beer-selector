@@ -1,0 +1,82 @@
+estilo,era,origen,fermentacion,color,intensidad,sabor,ibu_prom,abv_prom_%,cluster,nombre_cluster
+american pale ale,Craft,North America,ale,clara,media,amarga,40.0,5.35,1,Intensas y Amargas (IPAs)
+american lager,Traditional,United States,lager,clara,media,balanceada,13.0,4.75,0,Refrescantes y Ligeras
+weissbier,Traditional,Central Europe,ale,clara,media,maltosa,11.5,4.95,0,Refrescantes y Ligeras
+irish stout,Traditional,Ireland,ale,oscura,media,amarga,35.0,4.4,0,Refrescantes y Ligeras
+american ipa,Craft,North America,ale,clara,intensa,amarga,55.0,6.5,1,Intensas y Amargas (IPAs)
+belgian ipa,Craft,North America,ale,clara,intensa,amarga,75.0,7.85,3,Equilibradas y Maltosas
+black ipa,Craft,North America,ale,oscura,intensa,amarga,70.0,7.25,3,Equilibradas y Maltosas
+brown ipa,Craft,North America,ale,oscura,intensa,amarga,55.0,6.5,1,Intensas y Amargas (IPAs)
+red ipa,Craft,North America,ale,ambar,intensa,amarga,55.0,6.5,1,Intensas y Amargas (IPAs)
+rye ipa,Craft,North America,ale,ambar,intensa,amarga,62.5,6.75,1,Intensas y Amargas (IPAs)
+white ipa,Craft,North America,ale,clara,intensa,amarga,55.0,6.25,1,Intensas y Amargas (IPAs)
+brut ipa,Craft,North America,ale,clara,intensa,amarga,25.0,6.75,0,Refrescantes y Ligeras
+hazy ipa,Craft,North America,ale,clara,intensa,amarga,42.5,7.5,1,Intensas y Amargas (IPAs)
+american porter,Craft,North America,ale,oscura,media,amarga,37.5,5.65,1,Intensas y Amargas (IPAs)
+american stout,Craft,North America,ale,oscura,intensa,amarga,55.0,6.0,1,Intensas y Amargas (IPAs)
+imperial stout,Craft,Great Britain,ale,oscura,muy intensa,amarga,70.0,10.0,3,Equilibradas y Maltosas
+belgian blond ale,Traditional,Belgium,ale,clara,intensa,balanceada,22.5,6.75,0,Refrescantes y Ligeras
+belgian golden strong ale,Traditional,Belgium,ale,clara,muy intensa,amarga,28.5,9.0,2,Robustas y Alcohólicas
+american amber ale,Craft,North America,ale,ambar,media,balanceada,32.5,5.35,0,Refrescantes y Ligeras
+california common,Traditional,North America,lager,ambar,media,amarga,37.5,5.0,0,Refrescantes y Ligeras
+american brown ale,Craft,North America,ale,oscura,media,balanceada,25.0,5.25,0,Refrescantes y Ligeras
+american light lager,Traditional,United States,lager,clara,ligera,balanceada,10.0,3.5,0,Refrescantes y Ligeras
+double ipa,Craft,North America,ale,clara,muy intensa,amarga,80.0,8.75,3,Equilibradas y Maltosas
+american strong ale,Craft,North America,ale,ambar,intensa,amarga,75.0,8.15,3,Equilibradas y Maltosas
+american barleywine,Craft,North America,ale,ambar,muy intensa,amarga,75.0,10.0,3,Equilibradas y Maltosas
+wheatwine,Craft,North America,ale,ambar,muy intensa,balanceada,45.0,10.0,2,Robustas y Alcohólicas
+dunkles weissbier,Traditional,Central Europe,ale,ambar,media,maltosa,14.0,4.95,0,Refrescantes y Ligeras
+weizenbock,Traditional,Central Europe,ale,ambar,intensa,maltosa,22.5,7.75,2,Robustas y Alcohólicas
+ordinary bitter,Traditional,Great Britain,ale,ambar,ligera,amarga,30.0,3.5,0,Refrescantes y Ligeras
+best bitter,Traditional,Great Britain,ale,ambar,media,amarga,32.5,4.2,0,Refrescantes y Ligeras
+strong bitter,Traditional,Great Britain,ale,ambar,media,amarga,40.0,5.4,1,Intensas y Amargas (IPAs)
+sweet stout,Traditional,Great Britain,ale,oscura,media,maltosa,30.0,5.0,0,Refrescantes y Ligeras
+oatmeal stout,Traditional,Great Britain,ale,oscura,media,balanceada,32.5,5.05,0,Refrescantes y Ligeras
+tropical stout,Traditional,Great Britain,ale,oscura,intensa,maltosa,40.0,6.75,1,Intensas y Amargas (IPAs)
+foreign extra stout,Traditional,Great Britain,ale,oscura,intensa,balanceada,60.0,7.15,1,Intensas y Amargas (IPAs)
+german leichtbier,Traditional,Germany,lager,clara,ligera,amarga,21.5,3.0,0,Refrescantes y Ligeras
+kölsch,Traditional,Germany,ale,clara,media,balanceada,24.0,4.8,0,Refrescantes y Ligeras
+german helles exportbier,Traditional,Germany,lager,clara,media,balanceada,25.0,5.5,0,Refrescantes y Ligeras
+german pils,Traditional,Germany,lager,clara,media,amarga,31.0,4.8,0,Refrescantes y Ligeras
+dark mild,Traditional,Great Britain,ale,oscura,ligera,maltosa,17.5,3.4,0,Refrescantes y Ligeras
+british brown ale,Traditional,Great Britain,ale,ambar,media,maltosa,25.0,5.05,0,Refrescantes y Ligeras
+english porter,Traditional,Great Britain,ale,oscura,media,maltosa,26.5,4.7,0,Refrescantes y Ligeras
+belgian single,Craft,Belgium,ale,clara,media,amarga,35.0,5.4,0,Refrescantes y Ligeras
+belgian dubbel,Traditional,Belgium,ale,ambar,intensa,maltosa,20.0,6.8,0,Refrescantes y Ligeras
+belgian tripel,Traditional,Belgium,ale,clara,intensa,amarga,30.0,8.5,2,Robustas y Alcohólicas
+belgian dark strong ale,Traditional,Belgium,ale,ambar,muy intensa,maltosa,27.5,10.0,2,Robustas y Alcohólicas
+irish red ale,Traditional,Ireland,ale,ambar,media,balanceada,23.0,4.4,0,Refrescantes y Ligeras
+irish extra stout,Traditional,Ireland,ale,oscura,intensa,amarga,42.5,5.75,1,Intensas y Amargas (IPAs)
+belgian pale ale,Traditional,Belgium,ale,ambar,media,balanceada,25.0,5.15,0,Refrescantes y Ligeras
+british golden ale,Craft,Great Britain,ale,clara,media,amarga,32.5,4.4,0,Refrescantes y Ligeras
+australian sparkling ale,Traditional,Australia,ale,clara,media,amarga,27.5,5.25,0,Refrescantes y Ligeras
+english ipa,Traditional,Great Britain,ale,clara,intensa,amarga,50.0,6.25,1,Intensas y Amargas (IPAs)
+british strong ale,Traditional,Great Britain,ale,ambar,intensa,maltosa,45.0,6.75,1,Intensas y Amargas (IPAs)
+old ale,Traditional,Great Britain,ale,ambar,intensa,maltosa,45.0,7.25,1,Intensas y Amargas (IPAs)
+wee heavy,Traditional,Great Britain,ale,ambar,intensa,maltosa,26.0,8.25,2,Robustas y Alcohólicas
+english barley wine,Traditional,Great Britain,ale,ambar,muy intensa,maltosa,52.5,10.0,2,Robustas y Alcohólicas
+czech pale lager,Traditional,Czech Republic,lager,clara,ligera,amarga,27.5,3.55,0,Refrescantes y Ligeras
+czech premium pale lager,Traditional,Czech Republic,lager,clara,media,balanceada,37.5,5.0,0,Refrescantes y Ligeras
+czech amber lager,Traditional,Czech Republic,lager,ambar,media,balanceada,27.5,5.1,0,Refrescantes y Ligeras
+czech dark lager,Traditional,Czech Republic,lager,oscura,media,balanceada,26.0,5.1,0,Refrescantes y Ligeras
+vienna lager,Traditional,Austria,lager,ambar,media,balanceada,24.0,5.1,0,Refrescantes y Ligeras
+altbier,Traditional,Germany,ale,ambar,media,amarga,37.5,4.9,0,Refrescantes y Ligeras
+flanders red ale,Traditional,Belgium,ale,ambar,media,balanceada,17.5,5.55,0,Refrescantes y Ligeras
+oud bruin,Traditional,Belgium,ale,oscura,media,maltosa,22.5,6.0,0,Refrescantes y Ligeras
+munich helles,Traditional,Germany,lager,clara,media,maltosa,19.0,5.05,0,Refrescantes y Ligeras
+festbier,Traditional,Germany,lager,clara,media,maltosa,21.5,6.05,0,Refrescantes y Ligeras
+helles bock,Traditional,Germany,lager,clara,intensa,maltosa,29.0,6.85,0,Refrescantes y Ligeras
+doppelbock,Traditional,Central Europe,lager,ambar,intensa,maltosa,21.0,8.5,2,Robustas y Alcohólicas
+eisbock,Traditional,Central Europe,lager,ambar,muy intensa,maltosa,30.0,11.5,2,Robustas y Alcohólicas
+munich dunkel,Traditional,Germany,lager,oscura,media,maltosa,23.0,5.05,0,Refrescantes y Ligeras
+schwarzbier,Traditional,Central Europe,lager,oscura,media,balanceada,27.5,4.9,0,Refrescantes y Ligeras
+märzen,Traditional,Germany,lager,ambar,media,maltosa,21.0,5.95,0,Refrescantes y Ligeras
+rauchbier,Traditional,Germany,lager,ambar,media,maltosa,25.0,5.4,0,Refrescantes y Ligeras
+dunkles bock,Traditional,Germany,lager,ambar,intensa,maltosa,23.5,6.75,0,Refrescantes y Ligeras
+kentucky common,Historical,United States,ale,ambar,media,balanceada,22.5,4.75,0,Refrescantes y Ligeras
+london brown ale,Historical,Great Britain,ale,oscura,ligera,maltosa,17.5,3.2,0,Refrescantes y Ligeras
+piwo grodziskie,Historical,Poland,ale,clara,ligera,amarga,27.5,2.9,0,Refrescantes y Ligeras
+pre-prohibition lager,Historical,United States,lager,clara,media,amarga,32.5,5.25,0,Refrescantes y Ligeras
+scottish light,Traditional,Great Britain,ale,ambar,ligera,maltosa,15.0,2.9,0,Refrescantes y Ligeras
+scottish heavy,Traditional,Great Britain,ale,ambar,ligera,maltosa,15.0,3.6,0,Refrescantes y Ligeras
+scottish export,Traditional,Great Britain,ale,ambar,media,maltosa,22.5,4.95,0,Refrescantes y Ligeras

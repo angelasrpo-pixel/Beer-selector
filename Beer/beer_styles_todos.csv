@@ -1,0 +1,82 @@
+estilo,url,era,origin,fermentation,color,strength,taste,abv_min_%,abv_max_%,abv_prom_%,ibu_min,ibu_max,ibu_prom,color_ebc_min,color_ebc_max
+American Pale Ale,https://www.beer-analytics.com/styles/pale-american-ale/american-pale-ale/,Craft,North America,Top,Pale,Normal,Bitter,4.5,6.2,5.35,30.0,50.0,40.0,10.0,20.0
+American Lager,https://www.beer-analytics.com/styles/standard-american-beer/american-lager/,Traditional,🇺🇸 United States,Bottom,Pale,Normal,Balanced,4.2,5.3,4.75,8.0,18.0,13.0,4.0,7.0
+Weissbier,https://www.beer-analytics.com/styles/german-wheat-beer/weissbier/,Traditional,🇪🇺 Central Europe,Top,Pale,Normal,Malty,4.3,5.6,4.95,8.0,15.0,11.5,4.0,12.0
+Irish Stout,https://www.beer-analytics.com/styles/irish-beer/irish-stout/,Traditional,🇮🇪 Ireland,Top,Dark,Normal,Bitter,3.8,5.0,4.4,25.0,45.0,35.0,49.0,79.0
+American IPA,https://www.beer-analytics.com/styles/ipa/american-ipa/,Craft,North America,Top,Pale,High,Bitter,5.5,7.5,6.5,40.0,70.0,55.0,12.0,28.0
+Belgian IPA,https://www.beer-analytics.com/styles/ipa/belgian-ipa/,Craft,North America,Top,Pale,High,Bitter,6.2,9.5,7.85,50.0,100.0,75.0,10.0,16.0
+Black IPA,https://www.beer-analytics.com/styles/ipa/black-ipa/,Craft,North America,Top,Dark,High,Bitter,5.5,9.0,7.25,50.0,90.0,70.0,49.0,79.0
+Brown IPA,https://www.beer-analytics.com/styles/ipa/brown-ipa/,Craft,North America,Top,Dark,High,Bitter,5.5,7.5,6.5,40.0,70.0,55.0,35.0,69.0
+Red IPA,https://www.beer-analytics.com/styles/ipa/red-ipa/,Craft,North America,Top,Amber,High,Bitter,5.5,7.5,6.5,40.0,70.0,55.0,22.0,33.0
+Rye IPA,https://www.beer-analytics.com/styles/ipa/rye-ipa/,Craft,North America,Top,Amber,High,Bitter,5.5,8.0,6.75,50.0,75.0,62.5,12.0,28.0
+White IPA,https://www.beer-analytics.com/styles/ipa/white-ipa/,Craft,North America,Top,Pale,High,Bitter,5.5,7.0,6.25,40.0,70.0,55.0,10.0,12.0
+Brut IPA,https://www.beer-analytics.com/styles/ipa/brut-ipa/,Craft,North America,Top,Pale,High,Bitter,6.0,7.5,6.75,20.0,30.0,25.0,4.0,8.0
+Hazy IPA,https://www.beer-analytics.com/styles/ipa/hazy-ipa/,Craft,North America,Top,Pale,High,Bitter,6.0,9.0,7.5,25.0,60.0,42.5,6.0,14.0
+American Porter,https://www.beer-analytics.com/styles/american-porter-and-stout/american-porter/,Craft,North America,Top,Dark,Normal,Bitter,4.8,6.5,5.65,25.0,50.0,37.5,43.0,79.0
+American Stout,https://www.beer-analytics.com/styles/american-porter-and-stout/american-stout/,Craft,North America,Top,Dark,High,Bitter,5.0,7.0,6.0,35.0,75.0,55.0,59.0,79.0
+Imperial Stout,https://www.beer-analytics.com/styles/american-porter-and-stout/imperial-stout/,Craft,🇬🇧 Great Britain,Top,Dark,Very High,Bitter,8.0,12.0,10.0,50.0,90.0,70.0,59.0,79.0
+Belgian Blond Ale,https://www.beer-analytics.com/styles/strong-belgian-ale/belgian-blond-ale/,Traditional,🇧🇪 Belgium,Top,Pale,High,Balanced,6.0,7.5,6.75,15.0,30.0,22.5,8.0,12.0
+Belgian Golden Strong Ale,https://www.beer-analytics.com/styles/strong-belgian-ale/belgian-golden-strong-ale/,Traditional,🇧🇪 Belgium,Top,Pale,Very High,Bitter,7.5,10.5,9.0,22.0,35.0,28.5,6.0,12.0
+American Amber Ale,https://www.beer-analytics.com/styles/amber-and-brown-american-beer/american-amber-ale/,Craft,North America,Top,Amber,Normal,Balanced,4.5,6.2,5.35,25.0,40.0,32.5,20.0,33.0
+California Common,https://www.beer-analytics.com/styles/amber-and-brown-american-beer/california-common/,Traditional,North America,Bottom,Amber,Normal,Bitter,4.5,5.5,5.0,30.0,45.0,37.5,18.0,28.0
+American Brown Ale,https://www.beer-analytics.com/styles/amber-and-brown-american-beer/american-brown-ale/,Craft,North America,Top,Dark,Normal,Balanced,4.3,6.2,5.25,20.0,30.0,25.0,35.0,69.0
+American Light Lager,https://www.beer-analytics.com/styles/standard-american-beer/american-light-lager/,Traditional,🇺🇸 United States,Bottom,Pale,Low,Balanced,2.8,4.2,3.5,8.0,12.0,10.0,4.0,6.0
+Double IPA,https://www.beer-analytics.com/styles/strong-american-ale/double-ipa/,Craft,North America,Top,Pale,Very High,Bitter,7.5,10.0,8.75,60.0,100.0,80.0,12.0,28.0
+American Strong Ale,https://www.beer-analytics.com/styles/strong-american-ale/american-strong-ale/,Craft,North America,Top,Amber,High,Bitter,6.3,10.0,8.15,50.0,100.0,75.0,14.0,35.0
+American Barleywine,https://www.beer-analytics.com/styles/strong-american-ale/american-barleywine/,Craft,North America,Top,Amber,Very High,Bitter,8.0,12.0,10.0,50.0,100.0,75.0,18.0,35.0
+Wheatwine,https://www.beer-analytics.com/styles/strong-american-ale/wheatwine/,Craft,North America,Top,Amber,Very High,Balanced,8.0,12.0,10.0,30.0,60.0,45.0,12.0,28.0
+Dunkles Weissbier,https://www.beer-analytics.com/styles/german-wheat-beer/dunkles-weissbier/,Traditional,🇪🇺 Central Europe,Top,Amber,Normal,Malty,4.3,5.6,4.95,10.0,18.0,14.0,28.0,45.0
+Weizenbock,https://www.beer-analytics.com/styles/german-wheat-beer/weizenbock/,Traditional,🇪🇺 Central Europe,Top,Amber,High,Malty,6.5,9.0,7.75,15.0,30.0,22.5,12.0,49.0
+Ordinary Bitter,https://www.beer-analytics.com/styles/british-bitter/ordinary-bitter/,Traditional,🇬🇧 Great Britain,Top,Amber,Low,Bitter,3.2,3.8,3.5,25.0,35.0,30.0,16.0,28.0
+Best Bitter,https://www.beer-analytics.com/styles/british-bitter/best-bitter/,Traditional,🇬🇧 Great Britain,Top,Amber,Normal,Bitter,3.8,4.6,4.2,25.0,40.0,32.5,16.0,32.0
+Strong Bitter,https://www.beer-analytics.com/styles/british-bitter/strong-bitter/,Traditional,🇬🇧 Great Britain,Top,Amber,Normal,Bitter,4.6,6.2,5.4,30.0,50.0,40.0,16.0,35.0
+Sweet Stout,https://www.beer-analytics.com/styles/dark-british-beer/sweet-stout/,Traditional,🇬🇧 Great Britain,Top,Dark,Normal,Malty,4.0,6.0,5.0,20.0,40.0,30.0,59.0,79.0
+Oatmeal Stout,https://www.beer-analytics.com/styles/dark-british-beer/oatmeal-stout/,Traditional,🇬🇧 Great Britain,Top,Dark,Normal,Balanced,4.2,5.9,5.05,25.0,40.0,32.5,43.0,79.0
+Tropical Stout,https://www.beer-analytics.com/styles/dark-british-beer/tropical-stout/,Traditional,🇬🇧 Great Britain,Top,Dark,High,Malty,5.5,8.0,6.75,30.0,50.0,40.0,59.0,79.0
+Foreign Extra Stout,https://www.beer-analytics.com/styles/dark-british-beer/foreign-extra-stout/,Traditional,🇬🇧 Great Britain,Top,Dark,High,Balanced,6.3,8.0,7.15,50.0,70.0,60.0,59.0,79.0
+German Leichtbier,https://www.beer-analytics.com/styles/pale-bitter-european-beer/german-leichtbier/,Traditional,🇩🇪 Germany,Bottom,Pale,Low,Bitter,2.4,3.6,3.0,15.0,28.0,21.5,3.0,8.0
+Kölsch,https://www.beer-analytics.com/styles/pale-bitter-european-beer/koelsch/,Traditional,🇩🇪 Germany,Top,Pale,Normal,Balanced,4.4,5.2,4.8,18.0,30.0,24.0,7.0,10.0
+German Helles Exportbier,https://www.beer-analytics.com/styles/pale-bitter-european-beer/german-helles-exportbier/,Traditional,🇩🇪 Germany,Bottom,Pale,Normal,Balanced,5.0,6.0,5.5,20.0,30.0,25.0,8.0,12.0
+German Pils,https://www.beer-analytics.com/styles/pale-bitter-european-beer/german-pils/,Traditional,🇩🇪 Germany,Bottom,Pale,Normal,Bitter,4.4,5.2,4.8,22.0,40.0,31.0,4.0,8.0
+Dark Mild,https://www.beer-analytics.com/styles/brown-british-beer/dark-mild/,Traditional,🇬🇧 Great Britain,Top,Dark,Low,Malty,3.0,3.8,3.4,10.0,25.0,17.5,28.0,49.0
+British Brown Ale,https://www.beer-analytics.com/styles/brown-british-beer/british-brown-ale/,Traditional,🇬🇧 Great Britain,Top,Amber,Normal,Malty,4.2,5.9,5.05,20.0,30.0,25.0,24.0,43.0
+English Porter,https://www.beer-analytics.com/styles/brown-british-beer/english-porter/,Traditional,🇬🇧 Great Britain,Top,Dark,Normal,Malty,4.0,5.4,4.7,18.0,35.0,26.5,39.0,59.0
+Belgian Single,https://www.beer-analytics.com/styles/monastic-ale/belgian-single/,Craft,🇧🇪 Belgium,Top,Pale,Normal,Bitter,4.8,6.0,5.4,25.0,45.0,35.0,6.0,10.0
+Belgian Dubbel,https://www.beer-analytics.com/styles/monastic-ale/belgian-dubbel/,Traditional,🇧🇪 Belgium,Top,Amber,High,Malty,6.0,7.6,6.8,15.0,25.0,20.0,20.0,33.0
+Belgian Tripel,https://www.beer-analytics.com/styles/monastic-ale/belgian-tripel/,Traditional,🇧🇪 Belgium,Top,Pale,High,Bitter,7.5,9.5,8.5,20.0,40.0,30.0,9.0,14.0
+Belgian Dark Strong Ale,https://www.beer-analytics.com/styles/monastic-ale/belgian-dark-strong-ale/,Traditional,🇧🇪 Belgium,Top,Amber,Very High,Malty,8.0,12.0,10.0,20.0,35.0,27.5,24.0,43.0
+Irish Red Ale,https://www.beer-analytics.com/styles/irish-beer/irish-red-ale/,Traditional,🇮🇪 Ireland,Top,Amber,Normal,Balanced,3.8,5.0,4.4,18.0,28.0,23.0,18.0,28.0
+Irish Extra Stout,https://www.beer-analytics.com/styles/irish-beer/irish-extra-stout/,Traditional,🇮🇪 Ireland,Top,Dark,High,Bitter,5.0,6.5,5.75,35.0,50.0,42.5,59.0,79.0
+Belgian Pale Ale,https://www.beer-analytics.com/styles/belgian-ale/belgian-pale-ale/,Traditional,🇧🇪 Belgium,Top,Amber,Normal,Balanced,4.8,5.5,5.15,20.0,30.0,25.0,16.0,28.0
+British Golden Ale,https://www.beer-analytics.com/styles/pale-commonwealth-beer/british-golden-ale/,Craft,🇬🇧 Great Britain,Top,Pale,Normal,Bitter,3.8,5.0,4.4,20.0,45.0,32.5,4.0,10.0
+Australian Sparkling Ale,https://www.beer-analytics.com/styles/pale-commonwealth-beer/australian-sparkling-ale/,Traditional,🇦🇺 Australia,Top,Pale,Normal,Bitter,4.5,6.0,5.25,20.0,35.0,27.5,8.0,14.0
+English IPA,https://www.beer-analytics.com/styles/pale-commonwealth-beer/english-ipa/,Traditional,🇬🇧 Great Britain,Top,Pale,High,Bitter,5.0,7.5,6.25,40.0,60.0,50.0,12.0,28.0
+British Strong Ale,https://www.beer-analytics.com/styles/strong-british-ale/british-strong-ale/,Traditional,🇬🇧 Great Britain,Top,Amber,High,Malty,5.5,8.0,6.75,30.0,60.0,45.0,16.0,43.0
+Old Ale,https://www.beer-analytics.com/styles/strong-british-ale/old-ale/,Traditional,🇬🇧 Great Britain,Top,Amber,High,Malty,5.5,9.0,7.25,30.0,60.0,45.0,20.0,43.0
+Wee Heavy,https://www.beer-analytics.com/styles/strong-british-ale/wee-heavy/,Traditional,🇬🇧 Great Britain,Top,Amber,High,Malty,6.5,10.0,8.25,17.0,35.0,26.0,28.0,49.0
+English Barley Wine,https://www.beer-analytics.com/styles/strong-british-ale/english-barley-wine/,Traditional,🇬🇧 Great Britain,Top,Amber,Very High,Malty,8.0,12.0,10.0,35.0,70.0,52.5,16.0,43.0
+Czech Pale Lager,https://www.beer-analytics.com/styles/czech-lager/czech-pale-lager/,Traditional,🇨🇿 Czech Republic,Bottom,Pale,Low,Bitter,3.0,4.1,3.55,20.0,35.0,27.5,6.0,12.0
+Czech Premium Pale Lager,https://www.beer-analytics.com/styles/czech-lager/czech-premium-pale-lager/,Traditional,🇨🇿 Czech Republic,Bottom,Pale,Normal,Balanced,4.2,5.8,5.0,30.0,45.0,37.5,7.0,12.0
+Czech Amber Lager,https://www.beer-analytics.com/styles/czech-lager/czech-amber-lager/,Traditional,🇨🇿 Czech Republic,Bottom,Amber,Normal,Balanced,4.4,5.8,5.1,20.0,35.0,27.5,20.0,32.0
+Czech Dark Lager,https://www.beer-analytics.com/styles/czech-lager/czech-dark-lager/,Traditional,🇨🇿 Czech Republic,Bottom,Dark,Normal,Balanced,4.4,5.8,5.1,18.0,34.0,26.0,33.0,69.0
+Vienna Lager,https://www.beer-analytics.com/styles/amber-bitter-european-beer/vienna-lager/,Traditional,🇦🇹 Austria,Bottom,Amber,Normal,Balanced,4.7,5.5,5.1,18.0,30.0,24.0,18.0,30.0
+Altbier,https://www.beer-analytics.com/styles/amber-bitter-european-beer/altbier/,Traditional,🇩🇪 Germany,Top,Amber,Normal,Bitter,4.3,5.5,4.9,25.0,50.0,37.5,18.0,33.0
+Flanders Red Ale,https://www.beer-analytics.com/styles/european-sour-ale/flanders-red-ale/,Traditional,🇧🇪 Belgium,Top,Amber,Normal,Balanced,4.6,6.5,5.55,10.0,25.0,17.5,20.0,33.0
+Oud Bruin,https://www.beer-analytics.com/styles/european-sour-ale/oud-bruin/,Traditional,🇧🇪 Belgium,Top,Dark,Normal,Malty,4.0,8.0,6.0,20.0,25.0,22.5,33.0,43.0
+Munich Helles,https://www.beer-analytics.com/styles/pale-malty-european-lager/munich-helles/,Traditional,🇩🇪 Germany,Bottom,Pale,Normal,Malty,4.7,5.4,5.05,16.0,22.0,19.0,6.0,10.0
+Festbier,https://www.beer-analytics.com/styles/pale-malty-european-lager/festbier/,Traditional,🇩🇪 Germany,Bottom,Pale,Normal,Malty,5.8,6.3,6.05,18.0,25.0,21.5,8.0,12.0
+Helles Bock,https://www.beer-analytics.com/styles/pale-malty-european-lager/helles-bock/,Traditional,🇩🇪 Germany,Bottom,Pale,High,Malty,6.3,7.4,6.85,23.0,35.0,29.0,12.0,18.0
+Doppelbock,https://www.beer-analytics.com/styles/strong-european-beer/doppelbock/,Traditional,🇪🇺 Central Europe,Bottom,Amber,High,Malty,7.0,10.0,8.5,16.0,26.0,21.0,12.0,49.0
+Eisbock,https://www.beer-analytics.com/styles/strong-european-beer/eisbock/,Traditional,🇪🇺 Central Europe,Bottom,Amber,Very High,Malty,9.0,14.0,11.5,25.0,35.0,30.0,33.0,59.0
+Munich Dunkel,https://www.beer-analytics.com/styles/dark-european-lager/munich-dunkel/,Traditional,🇩🇪 Germany,Bottom,Dark,Normal,Malty,4.5,5.6,5.05,18.0,28.0,23.0,33.0,55.0
+Schwarzbier,https://www.beer-analytics.com/styles/dark-european-lager/schwarzbier/,Traditional,🇪🇺 Central Europe,Bottom,Dark,Normal,Balanced,4.4,5.4,4.9,20.0,35.0,27.5,37.0,59.0
+Märzen,https://www.beer-analytics.com/styles/amber-malty-european-lager/maerzen/,Traditional,🇩🇪 Germany,Bottom,Amber,Normal,Malty,5.6,6.3,5.95,18.0,24.0,21.0,16.0,33.0
+Rauchbier,https://www.beer-analytics.com/styles/amber-malty-european-lager/rauchbier/,Traditional,🇩🇪 Germany,Bottom,Amber,Normal,Malty,4.8,6.0,5.4,20.0,30.0,25.0,24.0,43.0
+Dunkles Bock,https://www.beer-analytics.com/styles/amber-malty-european-lager/dunkles-bock/,Traditional,🇩🇪 Germany,Bottom,Amber,High,Malty,6.3,7.2,6.75,20.0,27.0,23.5,28.0,43.0
+Kentucky Common,https://www.beer-analytics.com/styles/historical-beer/kentucky-common/,Historical,🇺🇸 United States,Top,Amber,Normal,Balanced,4.0,5.5,4.75,15.0,30.0,22.5,22.0,39.0
+London Brown Ale,https://www.beer-analytics.com/styles/historical-beer/london-brown-ale/,Historical,🇬🇧 Great Britain,Top,Dark,Low,Malty,2.8,3.6,3.2,15.0,20.0,17.5,43.0,69.0
+Piwo Grodziskie,https://www.beer-analytics.com/styles/historical-beer/piwo-grodziskie/,Historical,🇵🇱 Poland,Top,Pale,Low,Bitter,2.5,3.3,2.9,20.0,35.0,27.5,6.0,12.0
+Pre-Prohibition Lager,https://www.beer-analytics.com/styles/historical-beer/pre-prohibition-lager/,Historical,🇺🇸 United States,Bottom,Pale,Normal,Bitter,4.5,6.0,5.25,25.0,40.0,32.5,6.0,12.0
+Scottish Light,https://www.beer-analytics.com/styles/scottish-ale/scottish-light/,Traditional,🇬🇧 Great Britain,Top,Amber,Low,Malty,2.5,3.3,2.9,10.0,20.0,15.0,33.0,49.0
+Scottish Heavy,https://www.beer-analytics.com/styles/scottish-ale/scottish-heavy/,Traditional,🇬🇧 Great Britain,Top,Amber,Low,Malty,3.3,3.9,3.6,10.0,20.0,15.0,24.0,39.0
+Scottish Export,https://www.beer-analytics.com/styles/scottish-ale/scottish-export/,Traditional,🇬🇧 Great Britain,Top,Amber,Normal,Malty,3.9,6.0,4.95,15.0,30.0,22.5,24.0,39.0
