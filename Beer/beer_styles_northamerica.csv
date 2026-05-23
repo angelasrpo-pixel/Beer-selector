@@ -1,0 +1,7 @@
+Estilo,URL,ABV_min_%,ABV_max_%,ABV_prom_%,IBU_min,IBU_max,IBU_prom,Color_EBC_min,Color_EBC_max,Color_EBC_prom,OG_min,OG_max,OG_prom
+American IPA,https://www.beer-analytics.com/styles/ipa/american-ipa/,5.5,7.5,6.5,40.0,70.0,55.0,12.0,28.0,20.0,13.7,16.9,15.3
+Specialty IPA,https://www.beer-analytics.com/styles/ipa/specialty-ipa/,,,,,,,,,,,,
+Hazy IPA,https://www.beer-analytics.com/styles/ipa/hazy-ipa/,6.0,9.0,7.5,25.0,60.0,42.5,6.0,14.0,10.0,14.7,20.3,17.5
+Blonde Ale,https://www.beer-analytics.com/styles/pale-american-ale/blonde-ale/,3.8,5.5,4.65,15.0,28.0,21.5,6.0,12.0,9.0,9.5,13.3,11.4
+American Pale Ale,https://www.beer-analytics.com/styles/pale-american-ale/american-pale-ale/,4.5,6.2,5.35,30.0,50.0,40.0,10.0,20.0,15.0,11.2,14.7,12.95
+American porter,https://www.beer-analytics.com/styles/american-porter-and-stout/american-porter/,4.8,6.5,5.65,25.0,50.0,37.5,43.0,79.0,61.0,12.3,16.9,14.6
