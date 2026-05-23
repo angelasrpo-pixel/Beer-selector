@@ -97,8 +97,4 @@ if not recomendaciones.empty:
                     st.caption(f"Cluster ML: {row['nombre_cluster']}")
                     
 else:
-<<<<<<< HEAD
     st.warning("No se encontraron cervezas que coincidan con tus preferencias. Intenta ajustar los filtros.")
-=======
-    st.warning("No se encontraron cervezas que coincidan con tus preferencias. Intenta ajustar los filtros.")
->>>>>>> 1743a9a0ec6c053c823ef325e8a45ebd8b814993
