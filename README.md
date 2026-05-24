@@ -30,6 +30,6 @@ Interfaz orientada al usuario: Diseño mobile-first implementado con Streamlit p
 
 👩‍💻 Sobre mí Soy Ingeniera Química con experiencia en gestión estratégica de cuentas (KAM) y analítica de datos. Combino mi rigor técnico y visión comercial para transformar datos complejos en soluciones de negocio claras.
 
-LinkedIn: Ángela Patricia Suárez
+LinkedIn: (https://www.linkedin.com/in/angela-patricia-suarez-analista-de-datos/)
 
 Email: angela.srpo@gmail.com
